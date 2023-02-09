@@ -1,0 +1,17 @@
+{
+  "name": "faker-stuff",
+  "version": "1.0.0",
+  "description": "Faker-Test",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Faker"
+  ],
+  "author": "Us",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
